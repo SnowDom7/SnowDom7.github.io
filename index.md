@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Scott Evils Closet
+***We are a small group of innovative people who believe in the quality of online clothes shopping, we sell a variety of items just waiting for you to purchase and we even have a section for you to customize your own designs.***
 
-You can use the [editor on GitHub](https://github.com/SnowDom7/SnowDom7.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Meet our team!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Ben 
 
-```markdown
-Syntax highlighted code block
+-Lawrence
 
-# Header 1
-## Header 2
-### Header 3
+-Dom
 
-- Bulleted
-- List
+-Logan
 
-1. Numbered
-2. List
+-Owen
 
-**Bold** and _Italic_ and `Code` text
+[Click here to visit our website!](https://sites.google.com/d/1D_NE6BP6pKuNGl6o3wB4IzAnnm28If_8/p/1Hi1gbnCLvM-L-hfOe5YX0abGbTfHMP4r/view)
 
-[Link](url) and ![Image](src)
-```
+![image](https://user-images.githubusercontent.com/89934611/144652369-813f93e9-335d-4390-b4ee-d566aecdc654.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SnowDom7/SnowDom7.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Here's one of our fabulous designs!
+![image](https://user-images.githubusercontent.com/89934611/144652260-d228c3a5-e9f3-414e-b495-d9ab662cb0e2.png)
